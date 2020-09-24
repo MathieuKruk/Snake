@@ -23,7 +23,7 @@ window.onload = () => {
 	const init = () => {
 		canvas.width = canvasWidth;
 		canvas.height = canvasHeight;
-		canvas.style.border = "10px solid blue";
+		canvas.style.border = "10px solid brown";
 		canvas.style.margin = "50px auto";
 		canvas.style.display = "block";
 		canvas.style.backgroundColor = "#000000";
