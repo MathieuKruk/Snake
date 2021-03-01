@@ -17,7 +17,7 @@
 
 ## ◾ Features
 <ul>
-  <li>Homepage : contains a quick acces to the works sections, a covid-19 message and a caroussel with the latest achievements.</li>
+  <li>Homepage : Made in a retro look, it contains some informations and the game board.</li>
 </ul>
 
 <hr>
